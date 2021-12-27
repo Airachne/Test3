@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<XMLSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <audioSettings>false</audioSettings>
+  <toogleName>
+    <string />
+    <string>TBox</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TSphere</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+    <string>TCapsule</string>
+  </toogleName>
+</XMLSettings>
